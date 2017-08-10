@@ -1,0 +1,17 @@
+{
+  "name": "veteran-smaknis-api",
+  "version": "1.0.0",
+  "description": "web-alumni-veteran-smaknis",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "myan co.",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "mongoose": "^4.11.6",
+    "morgan": "^1.8.2"
+  }
+}
